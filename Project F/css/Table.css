@@ -1,0 +1,33 @@
+body{
+	font-family: arial;
+}
+
+table>caption{
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+table td, table th{
+	border: 1px black solid;
+	padding: 6px;
+}
+
+table{
+	border-collapse: collapse;
+	margin: auto;
+}
+
+
+.total-label{
+	text-align: right;
+}
+
+.total{
+	font-weight: bold;
+	color: green;
+}
+
+.row3{
+	background-color: #DDDDDE;
+}
